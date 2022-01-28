@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(38, 211, 241);
+}
+
+section {
+    background-color:lightyellow;
+    text-align: center;
+    border: 1px solid black;
+    width: 50%;
+    margin:10px;
+}
+
+section.enero table {
+    border-collapse: collapse;
+    margin: 10px;
+    text-align: center;
+}    
+
+section.enero th,td {
+    border-bottom: 1px solid black;
+    border-collapse: collapse;
+}
+
+section.enero caption {
+    font-style: oblique;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+
+section.febrero table {
+    border-collapse: collapse;
+    margin: 10px;
+    text-align: right;
+}    
+
+section.febrero td,th {
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-collapse: collapse;
+}
+
+section.marzo caption {
+    font-weight: bold;
+   
+section.febrero table {
+    border-collapse: collapse;
+    margin: 10px;
+    text-align: right;
+}    
+
+section.marzo td,th {
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-collapse: collapse;
+}
+
+section.marzo caption {
+    font-weight: bold;    
